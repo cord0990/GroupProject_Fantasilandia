@@ -23,10 +23,7 @@ public class Main {
             System.out.println("0. Salir");
             System.out.print("Seleccione opción: ");
 
-
             opcion = Integer.parseInt(br.readLine());
-
-            System.out.print("Tilin");
 
             switch (opcion) {
                 case 0:
