@@ -7,7 +7,7 @@ El sistema permite registrar y listar clientes, administrar atracciones y organi
 
 ## Requisitos
 
-- **JDK 11 o superior**   
+- **JDK 11**   
 - **IDE con soporte a Java** (IntelliJ IDEA, Eclipse o NetBeans)  
 
 ---
