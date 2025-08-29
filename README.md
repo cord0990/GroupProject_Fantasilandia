@@ -1,4 +1,4 @@
-# 🎢 Fantasilandia
+# Proyecto Fantasilandia
 
 **Fantasilandia** es un sistema de información en consola que permite gestionar un parque de atracciones.  
 El sistema permite registrar y listar clientes, administrar atracciones y organizar bloques de horario donde los clientes pueden inscribirse.
@@ -7,22 +7,22 @@ El sistema permite registrar y listar clientes, administrar atracciones y organi
 
 ## Requisitos
 
-- **JDK 11 o superior** (probado con JDK 17)  
+- **JDK 11 o superior**   
 - **IDE con soporte a Java** (IntelliJ IDEA, Eclipse o NetBeans)  
 
 ---
 
 ## Documentación
 
-Toda la interacción del sistema se realiza por **consola**.  
-Puede revisar las clases principales (`Cliente`, `Atraccion`, `BloqueDeAtraccion`, `DiasActivosAnuales`, `Fantasilandia`, etc.) dentro del código fuente.
+Toda la interacción del sistema se realiza Mediante la **consola**.  
+Puede revisar las clases principales del sistema (`Cliente`, `Atraccion`, `BloqueDeAtraccion`, `DiasActivosAnuales`, `Fantasilandia`, etc.) dentro del código fuente.
 
 ---
 
-## Instrucciones de ejecución
+## Instrucciones de ejecución Para cada una
 
-Una vez descargado y descomprimido el proyecto, debe abrir la carpeta **Fantasilandia** con un IDE que soporte Java (IntelliJ, Eclipse o NetBeans).  
-Siga los pasos a continuación para compilar y ejecutar el sistema.
+Una vez descargado y descomprimido el proyecto, debe abrir la carpeta **Fantasilandia 3.0** con un IDE que soporte Java (IntelliJ, Eclipse o NetBeans).  
+Siga los pasos a continuación para compilar y ejecutar el sistema en cada uno anteriormente mencionado.
 
 ---
 
@@ -51,14 +51,3 @@ Siga los pasos a continuación para compilar y ejecutar el sistema.
 3. Ejecute la clase `Main` con **Run Project (F6)**.  
 
 ---
-
-### Consola (opcional)
-
-Si prefiere ejecutar sin IDE:
-
-```bash
-# Compilar todos los archivos .java
-javac *.java
-
-# Ejecutar el programa principal
-java Main
